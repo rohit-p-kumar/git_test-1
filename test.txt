@@ -1,1 +1,3 @@
-This is a new git repository file for learning git operations
+This is a new git repository file for learning git operations.
+
+This is an extra line added by Rohit P Kumar.
